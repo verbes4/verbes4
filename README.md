@@ -2,6 +2,9 @@
 im proficient* in python and bash. i can do html and css, but not very well.
 
 *proficient = barely understands it enough to make working programs within them
+
+[![verbes4's GitHub stats](https://github-readme-stats.vercel.app/api?username=verbes4)](https://github.com/verbes4/verbes4)
+
 <!--
 **verbes4/verbes4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
