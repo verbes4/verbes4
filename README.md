@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hai
 im proficient* in python and bash. i can do html and css, but not very well.
 
 im currently trying to learn bash more as i am a big fan of linux. i use arch, my dotfiles can be found [here](https://github.com/verbes4/dotfiles).
