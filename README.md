@@ -16,6 +16,8 @@ im currently trying to learn bash more as i am a big fan of linux. i use arch, m
   </tr>
 </table>
 
+<sub>i dont use spotify anymore btw, apple music on 🔝</sub>
+
 <!--
 **verbes4/verbes4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
