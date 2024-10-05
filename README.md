@@ -3,10 +3,8 @@ i know python decently well. i can somewhat do bash and html + css, but not well
 
 i'm currently trying to learn lua.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=verbes4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=true&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=verbes4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![verbes4's Stats](https://github-readme-stats.vercel.app/api?username=verbes4&theme=dark&show_icons=true&hide_border=true&count_private=false)
+![verbes4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verbes4&theme=dark&show_icons=true&hide_border=true)
 
 <!--
 **verbes4/verbes4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
