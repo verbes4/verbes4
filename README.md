@@ -1,22 +1,12 @@
 ### Hai
-im proficient* in python and bash. i can do html and css, but not very well.
+i know python decently well. i can somewhat do bash and html + css, but not well.
 
-im currently trying to learn bash more as i am a big fan of linux. i use arch, my dotfiles can be found [here](https://github.com/verbes4/dotfiles).
+i'm currently trying to learn lua.
 
-<sub>*proficient = barely understands it enough to make working programs within them</sub>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=876pfkrgadz8xcokeukh9dn5t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"</>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=verbes4"</>
-    </td>
-  </tr>
-</table>
-
-<sub>i dont use spotify anymore btw, apple music on 🔝</sub>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=verbes4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=verbes4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <!--
 **verbes4/verbes4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
